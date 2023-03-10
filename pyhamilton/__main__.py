@@ -5,7 +5,6 @@ Created on Sun Jul  3 13:25:23 2022
 @author: stefa
 """
 
-#testing out commits from pycharm
 
 import os
 import sys
